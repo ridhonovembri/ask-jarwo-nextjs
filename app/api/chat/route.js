@@ -4,7 +4,7 @@ import { streamText } from "ai";
 export async function POST(req) {
   const { messages } = await req.json();
 
-  // console.log('messages', messages)
+  // console.log("messages", messages);
 
   const result = await streamText({
     model: groq("meta-llama/llama-4-maverick-17b-128e-instruct"),
@@ -19,5 +19,5 @@ export async function POST(req) {
 
   //   res.json({ response: text });
 
-  return result.toDataStreamResponse();
+  return result.toDataStreamResponse({ sendReasoning: true });
 }
