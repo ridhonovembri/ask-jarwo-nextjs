@@ -6,7 +6,7 @@
     -   ShadcnUI  [https://ui.shadcn.com/](https://ui.shadcn.com/)
  
 * AI Interface :
-    -   Groq [https://groq.com//](https://groq.com/)
+    -   Groq [https://groq.com/](https://groq.com/)
  
 * Model :
     -   meta-llama/llama-4-maverick-17b-128e-instruct [https://meta.ai/](https://meta.ai/)
