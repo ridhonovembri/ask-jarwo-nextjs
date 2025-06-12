@@ -1,12 +1,15 @@
 **Ask Jarwo 2.0.0 - Chat AI**
 -
-
 ***TechStack***
 -
-    - NextJs  [https://nextjs.org/](https://nextjs.org/)
-    - ShadcnUI  [https://ui.shadcn.com/](https://ui.shadcn.com/)
+* Backend :
+    -   NodeJs  [https://nodejs.org/en/download](https://nodejs.org/en/download)
+    -   ExpressJS  [https://expressjs.com/](https://expressjs.com/)
+    -   OpenRouter [https://openrouter.ai/](https://openrouter.ai/)
     -   Groq [https://groq.com//](https://groq.com//)
-    -   Model meta-llama/llama-4-maverick-17b-128e-instruct [https://meta.ai//](https://meta.ai//)
+* Frontend
+    -   VueJs 3  [https://vuejs.org/](https://vuejs.org/)
+    -   PrimeVue Component  [https://primevue.org/](https://primevue.org/)
 
 
 Disclaimer
