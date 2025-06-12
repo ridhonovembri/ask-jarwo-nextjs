@@ -1,11 +1,12 @@
 **Ask Jarwo 2.0.0 - Chat AI**
 -
 ***TechStack***
--
-    *   NodeJs  [https://nodejs.org/en/download](https://nodejs.org/en/download)
-    *   ExpressJS  [https://expressjs.com/](https://expressjs.com/)
-    *   OpenRouter [https://openrouter.ai/](https://openrouter.ai/)
-    *   Groq [https://groq.com//](https://groq.com//)
+* Framework & Styling :
+    -   NextJs  [https://nextjs.org/](https://nextjs.org/)
+    -   ShadcnUI  [https://ui.shadcn.com/](https://ui.shadcn.com/)
+ 
+* AI Interface :
+    -   Groq [https://groq.com//](https://groq.com//)
 
 
 Disclaimer
