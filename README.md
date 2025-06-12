@@ -9,7 +9,7 @@
     -   Groq [https://groq.com//](https://groq.com/)
  
 * Model :
-    -   meta-llama/llama-4-maverick-17b-128e-instruct [https://meta.ai//](https://meta.ai//)
+    -   meta-llama/llama-4-maverick-17b-128e-instruct [https://meta.ai//](https://meta.ai/)
 
 
 Disclaimer
