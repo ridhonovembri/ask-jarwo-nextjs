@@ -4,7 +4,7 @@
 * Framework | Components | Styling :
     -   NextJs  [https://nextjs.org/](https://nextjs.org/)
     -   ShadcnUI  [https://ui.shadcn.com/](https://ui.shadcn.com/)
-    -   ShadcnUI  [https://tailwindcss.com//](https://tailwindcss.com/)
+    -   TailwindCSS  [https://tailwindcss.com/](https://tailwindcss.com/)
  
 * AI Interface :
     -   Groq [https://groq.com/](https://groq.com/)
